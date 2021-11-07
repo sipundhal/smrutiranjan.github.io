@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smrutiranjan.github.io/static/css/main.26e0860f.chunk.css",
-    "main.js": "/smrutiranjan.github.io/static/js/main.a5258625.chunk.js",
-    "main.js.map": "/smrutiranjan.github.io/static/js/main.a5258625.chunk.js.map",
+    "main.js": "/smrutiranjan.github.io/static/js/main.1186cee6.chunk.js",
+    "main.js.map": "/smrutiranjan.github.io/static/js/main.1186cee6.chunk.js.map",
     "runtime-main.js": "/smrutiranjan.github.io/static/js/runtime-main.da827fc0.js",
     "runtime-main.js.map": "/smrutiranjan.github.io/static/js/runtime-main.da827fc0.js.map",
     "static/css/2.addb83ce.chunk.css": "/smrutiranjan.github.io/static/css/2.addb83ce.chunk.css",
@@ -112,6 +112,7 @@
     "static/media/placeholder.3fcbbdcd.png": "/smrutiranjan.github.io/static/media/placeholder.3fcbbdcd.png",
     "static/media/postgresql.c0d71b7c.svg": "/smrutiranjan.github.io/static/media/postgresql.c0d71b7c.svg",
     "static/media/premierepro.ee38e1aa.svg": "/smrutiranjan.github.io/static/media/premierepro.ee38e1aa.svg",
+    "static/media/profile.3993675c.png": "/smrutiranjan.github.io/static/media/profile.3993675c.png",
     "static/media/purpleTheme-boy.d30fe951.svg": "/smrutiranjan.github.io/static/media/purpleTheme-boy.d30fe951.svg",
     "static/media/purpleTheme-girl.56852c94.svg": "/smrutiranjan.github.io/static/media/purpleTheme-girl.56852c94.svg",
     "static/media/python.cf32ad96.svg": "/smrutiranjan.github.io/static/media/python.cf32ad96.svg",
@@ -148,6 +149,6 @@
     "static/css/2.addb83ce.chunk.css",
     "static/js/2.be0f7d42.chunk.js",
     "static/css/main.26e0860f.chunk.css",
-    "static/js/main.a5258625.chunk.js"
+    "static/js/main.1186cee6.chunk.js"
   ]
 }
