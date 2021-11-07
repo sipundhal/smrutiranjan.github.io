@@ -9,6 +9,7 @@ import { headerData } from '../../data/headerData'
 import { socialsData } from '../../data/socialsData'
 
 import { FaTwitter, FaLinkedin, FaGithub, FaInstagram,} from "react-icons/fa";
+import ProfileImage from "../../assets/svg/about/profile.png"
 
 
 function Landing() {
@@ -90,7 +91,7 @@ function Landing() {
                         
                     </div>
                 </div>
-                <img src={process.env.PUBLIC_URL + 'profile.jpg'} alt="" className="landing--img" style={{ opacity: `${drawerOpen ? '0' : '1'}`, borderColor: theme.secondary}}/>
+                <img src={ProfileImage} alt="" className="landing--img" style={{ opacity: `${drawerOpen ? '0' : '1'}`, borderColor: theme.secondary}}/>
                 <div className="landing--container-right" style={{backgroundColor: theme.secondary}}>
                     <div className="lcr--content" style={{color: theme.tertiary}}>
                         <h6>{headerData.title}</h6>
